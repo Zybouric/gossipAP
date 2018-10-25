@@ -11,7 +11,7 @@
  Step to follow:
  </h5>
 <ol>
- <li>Make a git clone: <code>git clone https://github.com/Zybouric/JeudiS4/tree/master/GossipApp</code></li>
+ <li>Make a git clone: <code>git clone https://github.com/Zybouric/gossipAP.git</code></li>
  <li>Install our gems: <code>bundle install</code></li>
 
 </ol>
